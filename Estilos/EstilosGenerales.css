@@ -1,9 +1,15 @@
 
 /* Aqui se implementa el aspecto por clases*/
 
-.img_p{
-    
+.img_p {
     width: 100%;
-    
     max-height: 220px;
+}
+
+.fondo-general {
+    background-color: darkseagreen;
+}
+
+.fonde-h2 {
+    background-color: beige;
 }
