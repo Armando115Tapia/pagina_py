@@ -1,4 +1,3 @@
-
 /* Aqui se implementa el aspecto por clases*/
 
 .img_p {
@@ -10,6 +9,11 @@
     background-color: darkseagreen;
 }
 
-.fonde-h2 {
+.fonde-h3 {
     background-color: beige;
+}
+
+.forma-body {
+    padding: 1%;
+    
 }
