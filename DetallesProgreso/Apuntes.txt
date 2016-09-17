@@ -1,1 +1,2 @@
-Se corrige el error de cierre de etiqieta, con este error no se podia visualizar correctamente la p·gina de incio
+Se corrige el error de cierre de etiqieta, con este error no se podia visualizar correctamente la p√°gina de incio
+Ademas se modifico el panel derecho se le puso un scroll.

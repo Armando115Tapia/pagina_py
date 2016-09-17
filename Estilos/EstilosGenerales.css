@@ -30,8 +30,9 @@
 }
 
 .forma-pnl-der {
-    padding-right: 3px;
-    padding-left: 19px;
+    overflow: auto;
+    max-height: 1000px;
+    
 }
 
 .letra-parrafos {

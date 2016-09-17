@@ -1,1 +1,2 @@
 Subir las imagenes a un repositorio en github para evitar que se caigan.
+Manejar correctamente las citas, averiguar sobre algun estandar en HTML.
