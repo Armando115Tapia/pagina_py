@@ -10,10 +10,37 @@
 }
 
 .fonde-h3 {
-    background-color: beige;
+    background-color: mintcream;
+    border: 2px groove black;
+    border-radius: 4px;
+    border-color: darkgrey;
 }
 
 .forma-body {
     padding: 1%;
-    
 }
+
+.color-paneles {
+    background-color: cornsilk;
+}
+
+.forma-pnl-izq {
+    padding-right: 3px;
+    padding-left: 30px;
+}
+
+.forma-pnl-der {
+    padding-right: 3px;
+    padding-left: 19px;
+}
+
+.letra-parrafos {
+    font-size: 17px;
+}
+
+
+/* colores cheveres */
+
+
+/* palegoldenrod
+cornsilk*/

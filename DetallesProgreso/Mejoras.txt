@@ -1,0 +1,1 @@
+Subir las imagenes a un repositorio en github para evitar que se caigan.
