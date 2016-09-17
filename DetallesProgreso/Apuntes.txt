@@ -1,0 +1,1 @@
+Se corrige el error de cierre de etiqieta, con este error no se podia visualizar correctamente la página de incio
